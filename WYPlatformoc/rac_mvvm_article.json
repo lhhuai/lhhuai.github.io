@@ -1,0 +1,18 @@
+{
+  "data" : {
+    "articleList" : [
+      {
+        "id" : "1",
+        "title" : "Effective java",
+        "authorName" : "wy",
+        "categoryName" : "book"
+      },
+      {
+        "id" : "2",
+        "title" : "Effective OC",
+        "authorName" : "wy",
+        "categoryName" : "book"
+      }
+    ]
+  }
+}
